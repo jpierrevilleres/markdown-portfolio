@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Favorite Food
+  * Sinigang
+  * Salad
+  * Fruits
+* Favorite Places
+  * Philippines
+  * Canada
